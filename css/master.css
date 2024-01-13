@@ -321,6 +321,9 @@ body {
     width: 465ppx;
     height: 325px;
 }
+.about .about-content .image img {
+    max-width: 100%
+}
 @media (max-width: 992px) {
     .about-content .image {
         margin: 0 auto 50px;
